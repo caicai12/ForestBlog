@@ -1,4 +1,4 @@
-修改一下readme
+修改一下readme,仅供本人学习使用
 最新消息，SpringBoot博客已经开源，[SENS](https://github.com/saysky/SENS)
 # 关于项目
 
@@ -46,6 +46,8 @@ Q Q：847064370 <br/>
 在线留言：[https://liuyanzhao.com/message.html](https://liuyanzhao.com/message.html)
 
 #### 1、克隆项目  <br/>
+如果直接复制github地址进行克隆的话需要自己配置文件类型，特别注意是pom.xml要add as maven;
+idea配置ssm项目的时候，要添加spring 配置spring-xml这些配置文件。
 克隆或者下载项目到本地，解压，主要分为三个部分：ForestBlog、uploads 和 forest_blog.sql <br/>
 ForestBlog: 完整项目源码, 可以使用 IDEA 导入或者打开  <br/>
 uploads: 上传图片的目录，与源码分离开来，可以放到物理磁盘某一目录，如D盘某目录，后面会讲 <br/>
